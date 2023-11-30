@@ -1,0 +1,15 @@
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\bin\Debug\net6.0\zadacha64.exe
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\bin\Debug\net6.0\zadacha64.deps.json
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\bin\Debug\net6.0\zadacha64.runtimeconfig.json
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\bin\Debug\net6.0\zadacha64.dll
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\bin\Debug\net6.0\zadacha64.pdb
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.csproj.AssemblyReference.cache
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.AssemblyInfoInputs.cache
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.AssemblyInfo.cs
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.csproj.CoreCompileInputs.cache
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.dll
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\refint\zadacha64.dll
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.pdb
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\zadacha64.genruntimeconfig.cache
+D:\Учеба\Домашнее задание\C#\Промежуточная аттестация\zadacha64\obj\Debug\net6.0\ref\zadacha64.dll
